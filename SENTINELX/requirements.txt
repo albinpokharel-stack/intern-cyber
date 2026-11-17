@@ -1,0 +1,2 @@
+# SentinelX Milestone 1 uses ONLY the Python standard library.
+# Nothing to install. (Python 3.9 or newer required.)
