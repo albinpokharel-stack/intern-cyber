@@ -1,0 +1,31 @@
+2026-11-17 10:41:45,849 INFO sentinelx.db: Database ready at C:\Users\Albin\SENTINELX\data\sentinelx.db
+2026-11-17 10:41:45,851 WARNING sentinelx.alerts: ALERT SX-001 High: 5 failed logins from 192.168.1.25 within 15 minutes
+2026-11-17 10:41:45,852 WARNING sentinelx.alerts: ALERT SX-002 Critical: 192.168.1.25 logged in as 'admin' right after 5 failed attempts
+2026-11-17 10:41:49,610 INFO sentinelx: 127.0.0.1 "GET / HTTP/1.1" 200 -
+2026-11-17 10:41:49,650 INFO sentinelx: 127.0.0.1 "GET /static/css/style.css HTTP/1.1" 200 -
+2026-11-17 10:41:49,766 INFO sentinelx: 127.0.0.1 "GET /static/css/style.css HTTP/1.1" 200 -
+2026-11-17 10:41:53,167 WARNING sentinelx.alerts: ALERT SX-001 High: 6 failed logins from 203.0.113.50 within 15 minutes
+2026-11-17 10:41:53,176 INFO sentinelx: 127.0.0.1 "POST /simulate HTTP/1.1" 303 -
+2026-11-17 10:41:53,181 INFO sentinelx: 127.0.0.1 "GET / HTTP/1.1" 200 -
+2026-11-17 10:41:53,194 INFO sentinelx: 127.0.0.1 "GET /static/css/style.css HTTP/1.1" 200 -
+2026-11-17 10:41:53,220 INFO sentinelx: 127.0.0.1 "GET /static/css/style.css HTTP/1.1" 200 -
+2026-11-17 10:42:03,613 INFO sentinelx: 127.0.0.1 "GET / HTTP/1.1" 200 -
+2026-11-17 10:42:03,623 INFO sentinelx: 127.0.0.1 "GET /static/css/style.css HTTP/1.1" 200 -
+2026-11-17 10:42:06,623 INFO sentinelx: 127.0.0.1 "POST /simulate HTTP/1.1" 303 -
+2026-11-17 10:42:06,629 INFO sentinelx: 127.0.0.1 "GET / HTTP/1.1" 200 -
+2026-11-17 10:42:06,641 INFO sentinelx: 127.0.0.1 "GET /static/css/style.css HTTP/1.1" 200 -
+2026-11-17 10:42:15,456 INFO sentinelx: 127.0.0.1 "POST /simulate HTTP/1.1" 303 -
+2026-11-17 10:42:15,463 INFO sentinelx: 127.0.0.1 "GET / HTTP/1.1" 200 -
+2026-11-17 10:42:15,475 INFO sentinelx: 127.0.0.1 "GET /static/css/style.css HTTP/1.1" 200 -
+2026-11-17 10:42:44,706 INFO sentinelx: 127.0.0.1 "GET /?q=admin HTTP/1.1" 200 -
+2026-11-17 10:42:44,715 INFO sentinelx: 127.0.0.1 "GET /static/css/style.css HTTP/1.1" 200 -
+2026-11-17 10:42:44,743 INFO sentinelx: 127.0.0.1 "GET /static/css/style.css HTTP/1.1" 200 -
+2026-11-17 10:42:57,237 INFO sentinelx: 127.0.0.1 "GET /export HTTP/1.1" 200 -
+2026-11-17 12:48:33,898 INFO sentinelx: 127.0.0.1 "POST /simulate HTTP/1.1" 303 -
+2026-11-17 12:48:33,906 INFO sentinelx: 127.0.0.1 "GET / HTTP/1.1" 200 -
+2026-11-17 12:48:33,913 INFO sentinelx: 127.0.0.1 "GET /static/css/style.css HTTP/1.1" 200 -
+2026-11-17 12:48:33,937 INFO sentinelx: 127.0.0.1 "GET /static/css/style.css HTTP/1.1" 200 -
+2026-11-17 12:48:39,832 INFO sentinelx: 127.0.0.1 "POST /simulate HTTP/1.1" 303 -
+2026-11-17 12:48:39,839 INFO sentinelx: 127.0.0.1 "GET / HTTP/1.1" 200 -
+2026-11-17 12:48:39,848 INFO sentinelx: 127.0.0.1 "GET /static/css/style.css HTTP/1.1" 200 -
+2026-11-17 12:48:39,886 INFO sentinelx: 127.0.0.1 "GET /static/css/style.css HTTP/1.1" 200 -
